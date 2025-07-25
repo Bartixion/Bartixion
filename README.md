@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bartixion and im beginner at programing
 - 👀 I’m interested in Coding and making usefull programs/apps
-- 🌱 I’m currently working on a irt chat web apliccation.
+- 🌱 I’m currently learning asp .net 
 
 
 <!---
